@@ -17,6 +17,7 @@ A machine learning system that detects phishing URLs using ensemble methods (Ran
 ```bash
 # Navigate to project directory
 cd C:\Users\vidiy\Desktop\phishing-url-detector
+python -m venv venv
 
 # Activate virtual environment
 venv\Scripts\activate
