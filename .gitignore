@@ -5,7 +5,6 @@ __pycache__/
 
 # Ignore dataset or results files
 results/*.pkl
-data/*.csv
 
 # Ignore environment / virtual environments
 venv/
